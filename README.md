@@ -1,2 +1,2 @@
-Run: npm install && npm run dev
-Health: http://localhost:5000/api/health
+Run: npm install && npx expo start
+Set API URL in App.js for a physical device.
